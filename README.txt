@@ -1,3 +1,4 @@
-Medicare for All v2.8 — Article 5: Socialism Is Not a Weapon
-Extract into C:\Projects\Medicare for All, replace matching files, commit and push in GitHub Desktop.
-This incremental package does not alter the homepage or Featured Articles. Existing articles are not deleted.
+ARCHIVE REPAIR v2.9
+Extract into C:\Projects\Medicare for All and replace matching files.
+Then commit and Push origin in GitHub Desktop.
+This patch updates only archive/index.html and articles/index.json; it does not touch homepage, Featured Articles, or article content.
