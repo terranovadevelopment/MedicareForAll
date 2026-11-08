@@ -1,1 +1,1 @@
-Medicare for All v3.5 — Article 9 added; all articles 1–9 appear on opening page. Extract into repository root, overwrite files, commit and push.
+Version 3.7: Article 11 added; all eleven articles on homepage. Extract at repository root, replace existing files, commit and push using GitHub Desktop.

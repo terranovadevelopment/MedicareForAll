@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "number": 11,
+      "title": "Why Business Leaders Should Be Enthusiastic About Medicare for All",
+      "description": "How Medicare for All could help employers through more predictable costs, simpler administration, worker mobility, and global competitiveness—while weighing financing trade-offs.",
+      "url": "articles/11/",
+      "thumbnail": "articles/11/thumbnail.png"
+    },
+    {
       "number": 10,
       "title": "We Don’t Need to Rob the Rich to Help the Poor",
       "description": "How fixing healthcare’s costly systems could benefit businesses and working families without turning economic classes against one another.",
