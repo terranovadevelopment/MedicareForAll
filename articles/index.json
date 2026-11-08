@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "website_version": "2.5",
+  "website_version": "2.8",
   "numbering": "Sequential integer folders without leading zeros",
   "articles": [
     {
@@ -23,6 +23,20 @@
       "url": "articles/3/",
       "thumbnail": "articles/3/thumbnail.png",
       "description": "Obamacare expanded access to insurance, but premiums, deductibles and copays can still make care unaffordable. Compare what patients pay under ACA plans with a proposed Medicare for All system."
+    },
+    {
+      "number": 4,
+      "title": "A Festering Wound: The History of Medicare for All and Congress’s Failure to Act",
+      "url": "articles/4/",
+      "thumbnail": "articles/4/thumbnail.png",
+      "description": "A century of national health insurance debates, landmark reforms, and stalled Medicare for All proposals—and the human cost of leaving America’s healthcare problems unresolved."
+    },
+    {
+      "number": 5,
+      "title": "Socialism Is Not a Weapon: Why America Must Debate Policies, Not Labels",
+      "url": "articles/5/",
+      "thumbnail": "articles/5/thumbnail.png",
+      "description": "Political labels should not replace serious debate. Explore how Americans share responsibility through Social Security, Medicare, public schools, and other services—and what that means for Medicare for All."
     }
   ]
 }
