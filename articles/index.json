@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "number": 7,
+      "title": "Better Healthcare Could Cost Less Than We Spend Today",
+      "url": "articles/7/",
+      "thumbnail": "articles/7/thumbnail.png",
+      "description": "Studies suggest Medicare for All could provide universal coverage while reducing overall healthcare spending; savings depend on policy design."
+    },
+    {
       "number": 6,
       "title": "Healthcare Needs Solutions, Not Stonewalling",
       "url": "articles/6/",
@@ -13,6 +20,34 @@
       "url": "articles/5/",
       "thumbnail": "articles/5/thumbnail.png",
       "description": "Why public policies should be evaluated on their merits, not dismissed with political labels."
+    },
+    {
+      "number": 4,
+      "title": "A Festering Wound: The History of Medicare for All and Congress’s Failure to Act",
+      "url": "articles/4/",
+      "thumbnail": "articles/4/thumbnail.png",
+      "description": "A century of national health insurance debates, landmark reforms, and stalled Medicare for All proposals—and the human cost of leaving America’s healthcare problems unresolved."
+    },
+    {
+      "number": 3,
+      "title": "Obamacare vs. Medicare for All: The Difference Between Having Insurance and Affording Healthcare",
+      "url": "articles/3/",
+      "thumbnail": "articles/3/thumbnail.png",
+      "description": "Obamacare expanded access to insurance, but premiums, deductibles and copays can still make care unaffordable. Compare what patients pay under ACA plans with a proposed Medicare for All system."
+    },
+    {
+      "number": 2,
+      "title": "Can America Afford Medicare for All—or Can We Afford to Keep the System We Have?",
+      "url": "articles/2/",
+      "thumbnail": "articles/2/thumbnail.png",
+      "description": "An evidence-based look at U.S. healthcare spending, insurance costs, administrative waste, and the potential trade-offs of Medicare for All. Savings depend on the specific plan and assumptions."
+    },
+    {
+      "number": 1,
+      "title": "Medicare for All: How Would Hospital Billing Actually Work?",
+      "url": "articles/1/",
+      "thumbnail": "articles/1/thumbnail.png",
+      "description": "How would Medicare for All pay hospitals? Explore simplified national billing, hospital global budgets, patient care, staffing, and financial accountability."
     }
   ]
 }
