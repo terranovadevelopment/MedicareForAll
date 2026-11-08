@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "number": 10,
+      "title": "We Don’t Need to Rob the Rich to Help the Poor",
+      "description": "How fixing healthcare’s costly systems could benefit businesses and working families without turning economic classes against one another.",
+      "url": "articles/10/",
+      "thumbnail": "articles/10/thumbnail.png"
+    },
+    {
       "number": 9,
       "title": "The Healthcare System Isn’t Broken — It’s Doing What It Was Built to Do",
       "description": "A look at how healthcare financing incentives, insurance complexity, and employer-based coverage can conflict with patient needs—and what reform could change.",
