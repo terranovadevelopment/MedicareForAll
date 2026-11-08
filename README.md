@@ -1,7 +1,10 @@
-# Medicare for All — website v1.8
+# Medicare for All Website v1.9
 
-New uploaded DOCX published as archive Article 3 at `articles/3/index.html`, with embedded illustration, source DOCX, short description, and thumbnail. Archive entries 1 and 2 now use unpadded paths (`articles/1/`, `articles/2/`); old `0001/` and `0002/` URLs redirect. The full archive page and `articles/index.json` have been updated. Existing legacy content and homepage featured articles remain unchanged.
+This release makes the Article Archive prominent on the homepage, improves archive thumbnail fitting, and adds a direct pointer to the new DOCX-based Article 3 from the older article page.
 
-NOTE: The submitted DOCX is identical to earlier archive articles 1 and 2. In accordance with the instruction not to replace existing content, Article 3 is a new separate entry with the same content.
+The older article remains unchanged in content; the Featured Articles section is not altered. Article 3 is at `articles/3/index.html` with its original DOCX illustration, thumbnail, and description.
 
-To publish, extract all contents of this ZIP into the GitHub repository root, replacing matching files, commit and push. The ZIP does not itself deploy to GitHub.
+## Publish
+Extract the ZIP contents (not the enclosing folder) into your local GitHub repository, replacing matching files. In GitHub Desktop, commit all changes and Push origin. GitHub Pages may take a few minutes to update.
+
+Visit `/MedicareForAll/archive/` for the archive and `/MedicareForAll/articles/3/` for the DOCX article.

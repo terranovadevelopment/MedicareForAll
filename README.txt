@@ -1,0 +1,1 @@
+Medicare for All v2.1 — incremental update. Copy the CONTENTS of this ZIP into the ROOT of your MedicareForAll repository (not into a nested folder). Allow overwrite of archive/index.html and articles/index.json. Existing articles and Featured section remain unchanged. GitHub Desktop: Commit to main, Push origin. New article: articles/1/index.html.
