@@ -1,5 +1,7 @@
-Universal Healthcare Social — Site update with first new featured article.
+Medicare for All static site — Article 01
 
-Copy all contents of this ZIP into the existing GitHub repository folder, preserving .git. Commit and push in GitHub Desktop.
+Article content: articles/can-we-afford-it/index.html
+Independent clickable cover: assets/article-covers/can-we-afford-it.png
+Homepage and archive use the cover. The cover is not automatically inserted into the full article. Images embedded in future DOCX submissions will be retained inside their article pages.
 
-Homepage features the newly added affordability article first, followed by the three existing featured cards. The graphical archive includes all five current article pages.
+Copy files into the existing GitHub repository root, preserving .git. Commit and push using GitHub Desktop.
