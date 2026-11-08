@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "website_version": "2.2",
+  "numbering": "Sequential integer folders without leading zeros",
+  "articles": [
+    {
+      "number": 1,
+      "title": "Medicare for All: How Would Hospital Billing Actually Work?",
+      "url": "articles/1/",
+      "thumbnail": "articles/1/thumbnail.png",
+      "description": "How would Medicare for All pay hospitals? Explore simplified national billing, hospital global budgets, patient care, staffing, and financial accountability."
+    }
+  ]
+}
