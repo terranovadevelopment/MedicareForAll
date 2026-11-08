@@ -1,15 +1,14 @@
 {
   "schema_version": 1,
-  "website_version": "2.1",
-  "numbering": "Sequential integers, no leading zeros",
+  "website_version": "2.2",
+  "numbering": "Sequential integer folders without leading zeros",
   "articles": [
     {
       "number": 1,
-      "title": "We Can Afford Medicare for All. Can We Afford the System We Have?",
+      "title": "Medicare for All: How Would Hospital Billing Actually Work?",
       "url": "articles/1/",
       "thumbnail": "articles/1/thumbnail.png",
-      "description": "articles/1/description.txt",
-      "featured": false
+      "description": "How would Medicare for All pay hospitals? Explore simplified national billing, hospital global budgets, patient care, staffing, and financial accountability."
     }
   ]
 }

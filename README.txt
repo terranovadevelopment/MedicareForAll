@@ -1,1 +1,5 @@
-Medicare for All v2.1 — incremental update. Copy the CONTENTS of this ZIP into the ROOT of your MedicareForAll repository (not into a nested folder). Allow overwrite of archive/index.html and articles/index.json. Existing articles and Featured section remain unchanged. GitHub Desktop: Commit to main, Push origin. New article: articles/1/index.html.
+Medicare for All — Hospital Billing Article 1 update v2.2
+
+Extract into the ROOT of your existing MedicareForAll GitHub repository, preserving folders. Commit and Push origin in GitHub Desktop.
+
+This update adds/replaces articles/1 and updates archive/index.html and articles/index.json. It does NOT delete old numbered article folders (2, 3, 0001, etc.). ZIP extraction cannot delete existing files. Featured articles and homepage are unchanged.
