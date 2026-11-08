@@ -1,1 +1,1 @@
-Version 3.7: Article 11 added; all eleven articles on homepage. Extract at repository root, replace existing files, commit and push using GitHub Desktop.
+Version 4.0: Article 13 added. All 13 articles listed on homepage. Extract at repository root, replace existing files, commit and push using GitHub Desktop.

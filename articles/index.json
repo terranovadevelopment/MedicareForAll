@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "number": 13,
+      "title": "Do We Really Want a Healthcare System That Profits from Sickness?",
+      "description": "Who benefits from healthcare's financial incentives—and how could Medicare for All better align payment with patient health?",
+      "url": "articles/13/",
+      "thumbnail": "articles/13/thumbnail.png"
+    },
+    {
       "number": 12,
       "title": "U.S. vs. Canada: A Healthcare Reality Check",
       "description": "Canada faces waits for some services, while U.S. patients can face substantial medical bills. What can Americans learn from both systems?",
