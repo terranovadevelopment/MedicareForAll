@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "number": 12,
+      "title": "U.S. vs. Canada: A Healthcare Reality Check",
+      "description": "Canada faces waits for some services, while U.S. patients can face substantial medical bills. What can Americans learn from both systems?",
+      "url": "articles/12/",
+      "thumbnail": "articles/12/thumbnail.png"
+    },
+    {
       "number": 11,
       "title": "Why Business Leaders Should Be Enthusiastic About Medicare for All",
       "description": "How Medicare for All could help employers through more predictable costs, simpler administration, worker mobility, and global competitiveness—while weighing financing trade-offs.",
