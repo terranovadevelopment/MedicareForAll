@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "number": 9,
+      "title": "The Healthcare System Isn’t Broken — It’s Doing What It Was Built to Do",
+      "description": "A look at how healthcare financing incentives, insurance complexity, and employer-based coverage can conflict with patient needs—and what reform could change.",
+      "url": "articles/9/",
+      "thumbnail": "articles/9/thumbnail.png"
+    },
+    {
       "number": 8,
       "title": "Medicare for All: A Bipartisan Opportunity",
       "url": "articles/8/",

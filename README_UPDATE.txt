@@ -1,1 +1,1 @@
-Medicare for All website v3.4 — Article 8 added. All eight articles appear on the homepage newest first. Extract contents into the root of your GitHub repository, replace existing files, then Commit to main and Push origin.
+Medicare for All v3.5 — Article 9 added; all articles 1–9 appear on opening page. Extract into repository root, overwrite files, commit and push.
