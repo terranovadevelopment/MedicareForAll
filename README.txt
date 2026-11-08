@@ -1,4 +1,5 @@
-Medicare for All website v2.4 — Add Article 2.
-Extract into the ROOT of your MedicareForAll GitHub repository, preserving folder structure; replace matching files. Then Commit to main and Push origin in GitHub Desktop.
-Adds articles/2/ and updates archive/index.html and articles/index.json. Does not delete existing articles or change featured articles.
-Thumbnail contains a hypothetical $4.0T scenario; it is not a guaranteed Medicare for All cost.
+Medicare for All website update v2.5 — Article 3
+
+Extract into your existing GitHub repository root, replacing matching files. Then commit and push.
+Includes Article 3 DOCX, illustration, square archive thumbnail, HTML page, description, and updated archive/index.json.
+Does not replace your homepage or change Featured Articles. Upper-left splash version label remains pending until the latest homepage source is available.

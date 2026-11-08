@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "website_version": "2.4",
+  "website_version": "2.5",
   "numbering": "Sequential integer folders without leading zeros",
   "articles": [
     {
@@ -16,6 +16,13 @@
       "url": "articles/2/",
       "thumbnail": "articles/2/thumbnail.png",
       "description": "An evidence-based look at U.S. healthcare spending, insurance costs, administrative waste, and the potential trade-offs of Medicare for All. Savings depend on the specific plan and assumptions."
+    },
+    {
+      "number": 3,
+      "title": "Obamacare vs. Medicare for All: The Difference Between Having Insurance and Affording Healthcare",
+      "url": "articles/3/",
+      "thumbnail": "articles/3/thumbnail.png",
+      "description": "Obamacare expanded access to insurance, but premiums, deductibles and copays can still make care unaffordable. Compare what patients pay under ACA plans with a proposed Medicare for All system."
     }
   ]
 }
