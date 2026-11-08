@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "website_version": "1.8",
+  "numbering": "Sequential article numbers without leading zeros. New DOCX submissions append an article; prior articles are not replaced.",
+  "articles": [
+    {
+      "number": 1,
+      "title": "We Can Afford Medicare for All. Can We Afford the System We Have?",
+      "url": "articles/1/",
+      "thumbnail": "articles/1/thumbnail.png",
+      "description_file": "articles/1/description.txt",
+      "source_file": "articles/1/source.docx",
+      "featured": false,
+      "publication_date": "2026-11"
+    },
+    {
+      "number": 2,
+      "title": "We Can Afford Medicare for All. Can We Afford the System We Have?",
+      "url": "articles/2/",
+      "thumbnail": "articles/2/thumbnail.png",
+      "description_file": "articles/2/description.txt",
+      "source_file": "articles/2/source.docx",
+      "featured": false,
+      "publication_date": "2026-11"
+    },
+    {
+      "number": 3,
+      "title": "We Can Afford Medicare for All. Can We Afford the System We Have?",
+      "url": "articles/3/",
+      "thumbnail": "articles/3/thumbnail.png",
+      "description_file": "articles/3/description.txt",
+      "source_file": "articles/3/source.docx",
+      "featured": false,
+      "publication_date": "2026-11"
+    }
+  ]
+}

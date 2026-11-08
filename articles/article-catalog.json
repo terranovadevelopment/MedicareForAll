@@ -1,0 +1,43 @@
+{
+  "version": "1.5",
+  "articles": [
+    {
+      "id": "can-we-afford-it",
+      "title": "Medicare for All: Can America Afford It\u2014or Can We Afford Not to Change?",
+      "url": "articles/can-we-afford-it/",
+      "thumbnail": "assets/article-covers/can-we-afford-it.png",
+      "featured": true
+    },
+    {
+      "id": "cost-of-status-quo",
+      "title": "We Can Afford Medicare for All. Can We Afford the System We Have?",
+      "url": "articles/cost-of-status-quo/",
+      "thumbnail": "assets/article-covers/cost-of-status-quo.png",
+      "featured": true
+    },
+    {
+      "id": "private-dentists",
+      "url": "articles/private-dentists/",
+      "featured": false,
+      "starter": true
+    },
+    {
+      "id": "medical-debt",
+      "url": "articles/medical-debt/",
+      "featured": false,
+      "starter": true
+    },
+    {
+      "id": "healthcare-explained",
+      "url": "articles/healthcare-explained/",
+      "featured": false,
+      "starter": true
+    },
+    {
+      "id": "economic-benefits",
+      "url": "articles/economic-benefits/",
+      "featured": false,
+      "starter": true
+    }
+  ]
+}
