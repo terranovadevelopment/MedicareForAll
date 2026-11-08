@@ -1,1 +1,1 @@
-Website v3.3: Article 7 added with embedded original DOCX and illustration. All articles 7 through 1 appear on the homepage, newest first. Extract into the existing repository, replacing files, then commit and push via GitHub Desktop.
+Medicare for All website v3.4 — Article 8 added. All eight articles appear on the homepage newest first. Extract contents into the root of your GitHub repository, replace existing files, then Commit to main and Push origin.

@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "number": 8,
+      "title": "Medicare for All: A Bipartisan Opportunity",
+      "url": "articles/8/",
+      "thumbnail": "articles/8/thumbnail.png",
+      "description": "How universal healthcare could help families at every income level and improve business competitiveness—and the trade-offs a credible proposal must address."
+    },
+    {
       "number": 7,
       "title": "Better Healthcare Could Cost Less Than We Spend Today",
       "url": "articles/7/",
