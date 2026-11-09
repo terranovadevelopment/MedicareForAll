@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "number": 17,
+      "title": "Medicare for All: What It Is—and What It Isn’t",
+      "description": "A practical explanation of what Medicare for All proposes, what it does not mean, and how universal healthcare could work.",
+      "url": "articles/17/",
+      "thumbnail": "articles/17/thumbnail.png"
+    },
+    {
       "number": 16,
       "title": "When Medical Bills Cost You Your Home",
       "description": "How medical debt, lost income, and unaffordable healthcare can put families at risk of eviction, foreclosure, and homelessness.",
