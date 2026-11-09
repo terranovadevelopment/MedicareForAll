@@ -1,1 +1,1 @@
-Version 4.0: Article 13 added. All 13 articles listed on homepage. Extract at repository root, replace existing files, commit and push using GitHub Desktop.
+Version 4.3: Added Article 14, with the hearing photograph and two editorial illustrations. All 14 articles appear on the homepage. Extract at repository root and replace matching files, then commit and push.

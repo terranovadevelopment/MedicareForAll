@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "number": 14,
+      "title": "When Denying Care Becomes a Business Strategy",
+      "description": "Congressional scrutiny of insurance claim denials, corporate incentives, and the consequences for patients.",
+      "url": "articles/14/",
+      "thumbnail": "articles/14/thumbnail.png"
+    },
+    {
       "number": 13,
       "title": "Do We Really Want a Healthcare System That Profits from Sickness?",
       "description": "Who benefits from healthcare's financial incentives—and how could Medicare for All better align payment with patient health?",
