@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "number": 22,
+      "title": "Why Do People Oppose Medicare for All?",
+      "description": "Understanding the objections, the financial interests, and the evidence.",
+      "url": "articles/22/",
+      "thumbnail": "articles/22/thumbnail.png"
+    },
+    {
+      "number": 21,
+      "title": "The Status Quo Is Not a Healthcare Strategy",
+      "description": "Why meaningful improvement in American healthcare requires fundamental change.",
+      "url": "articles/21/",
+      "thumbnail": "articles/21/thumbnail.png"
+    },
+    {
+      "number": 20,
+      "title": "The Patient, Not the Bill",
+      "description": "Healthcare should focus on treatment and recovery, rather than the fear of paying for care.",
+      "url": "articles/20/",
+      "thumbnail": "articles/20/thumbnail.png"
+    },
+    {
+      "number": 19,
+      "title": "Judge Medicare for All on Its Merits, Not Its Political Label",
+      "description": "A proposal should be judged by its actual design and results, not historical ideological associations.",
+      "url": "articles/19/",
+      "thumbnail": "articles/19/thumbnail.png"
+    },
+    {
+      "number": 18,
+      "title": "The Moral Imperative of Medicare for All",
+      "description": "Why caring for our neighbors can unite Americans around a healthcare system that serves everyone.",
+      "url": "articles/18/",
+      "thumbnail": "articles/18/thumbnail.png"
+    },
+    {
       "number": 17,
       "title": "Medicare for All: What It Is—and What It Isn’t",
       "description": "A practical explanation of what Medicare for All proposes, what it does not mean, and how universal healthcare could work.",
