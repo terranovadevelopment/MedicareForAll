@@ -1,6 +1,55 @@
 {
   "articles": [
     {
+      "number": 29,
+      "title": "Insured but Still Unable to Afford Care: The Walmart Worker\u2019s Dilemma",
+      "description": "Why having health insurance does not always mean affordable access to care.",
+      "url": "articles/29/",
+      "thumbnail": "articles/29/thumbnail.png"
+    },
+    {
+      "number": 28,
+      "title": "Call It What It Is: Universal Healthcare",
+      "description": "Why the name Medicare for All can be confused with today\u2019s Medicare.",
+      "url": "articles/28/",
+      "thumbnail": "articles/28/thumbnail.png"
+    },
+    {
+      "number": 27,
+      "title": "Medicare for All, American Manufacturing, and the Cost of Competing",
+      "description": "Could healthcare financing reform help U.S. manufacturing more sustainably than tariffs?",
+      "url": "articles/27/",
+      "thumbnail": "articles/27/thumbnail.png"
+    },
+    {
+      "number": 26,
+      "title": "The Hidden Economic Dividend of Medicare for All",
+      "description": "How reform might improve competitiveness, wages, and purchasing power.",
+      "url": "articles/26/",
+      "thumbnail": "articles/26/thumbnail.png"
+    },
+    {
+      "number": 25,
+      "title": "The True Cost of American Healthcare: What the Bills Don\u2019t Show",
+      "description": "Employer burdens, job lock, delayed care, and other indirect costs.",
+      "url": "articles/25/",
+      "thumbnail": "articles/25/thumbnail.png"
+    },
+    {
+      "number": 24,
+      "title": "The Medicare Part B Premium: A Heavy Burden on Fixed Incomes",
+      "description": "Why monthly Part B premiums can strain retirement budgets.",
+      "url": "articles/24/",
+      "thumbnail": "articles/24/thumbnail.png"
+    },
+    {
+      "number": 23,
+      "title": "Is America Ready for Medicare for All?",
+      "description": "Why public understanding matters when evaluating a national health plan.",
+      "url": "articles/23/",
+      "thumbnail": "articles/23/thumbnail.png"
+    },
+    {
       "number": 22,
       "title": "Why Do People Oppose Medicare for All?",
       "description": "Understanding the objections, the financial interests, and the evidence.",
@@ -37,7 +86,7 @@
     },
     {
       "number": 17,
-      "title": "Medicare for All: What It Is—and What It Isn’t",
+      "title": "Medicare for All: What It Is\u2014and What It Isn\u2019t",
       "description": "A practical explanation of what Medicare for All proposes, what it does not mean, and how universal healthcare could work.",
       "url": "articles/17/",
       "thumbnail": "articles/17/thumbnail.png"
@@ -51,8 +100,8 @@
     },
     {
       "number": 15,
-      "title": "If America Is the Greatest Country, Let’s Prove It",
-      "description": "Let’s build a healthcare system worthy of America’s ideals—one that puts We the People first and leaves no one last.",
+      "title": "If America Is the Greatest Country, Let\u2019s Prove It",
+      "description": "Let\u2019s build a healthcare system worthy of America\u2019s ideals\u2014one that puts We the People first and leaves no one last.",
       "url": "articles/15/",
       "thumbnail": "articles/15/thumbnail.png"
     },
@@ -66,7 +115,7 @@
     {
       "number": 13,
       "title": "Do We Really Want a Healthcare System That Profits from Sickness?",
-      "description": "Who benefits from healthcare's financial incentives—and how could Medicare for All better align payment with patient health?",
+      "description": "Who benefits from healthcare's financial incentives\u2014and how could Medicare for All better align payment with patient health?",
       "url": "articles/13/",
       "thumbnail": "articles/13/thumbnail.png"
     },
@@ -80,21 +129,21 @@
     {
       "number": 11,
       "title": "Why Business Leaders Should Be Enthusiastic About Medicare for All",
-      "description": "How Medicare for All could help employers through more predictable costs, simpler administration, worker mobility, and global competitiveness—while weighing financing trade-offs.",
+      "description": "How Medicare for All could help employers through more predictable costs, simpler administration, worker mobility, and global competitiveness\u2014while weighing financing trade-offs.",
       "url": "articles/11/",
       "thumbnail": "articles/11/thumbnail.png"
     },
     {
       "number": 10,
-      "title": "We Don’t Need to Rob the Rich to Help the Poor",
-      "description": "How fixing healthcare’s costly systems could benefit businesses and working families without turning economic classes against one another.",
+      "title": "We Don\u2019t Need to Rob the Rich to Help the Poor",
+      "description": "How fixing healthcare\u2019s costly systems could benefit businesses and working families without turning economic classes against one another.",
       "url": "articles/10/",
       "thumbnail": "articles/10/thumbnail.png"
     },
     {
       "number": 9,
-      "title": "The Healthcare System Isn’t Broken — It’s Doing What It Was Built to Do",
-      "description": "A look at how healthcare financing incentives, insurance complexity, and employer-based coverage can conflict with patient needs—and what reform could change.",
+      "title": "The Healthcare System Isn\u2019t Broken \u2014 It\u2019s Doing What It Was Built to Do",
+      "description": "A look at how healthcare financing incentives, insurance complexity, and employer-based coverage can conflict with patient needs\u2014and what reform could change.",
       "url": "articles/9/",
       "thumbnail": "articles/9/thumbnail.png"
     },
@@ -103,7 +152,7 @@
       "title": "Medicare for All: A Bipartisan Opportunity",
       "url": "articles/8/",
       "thumbnail": "articles/8/thumbnail.png",
-      "description": "How universal healthcare could help families at every income level and improve business competitiveness—and the trade-offs a credible proposal must address."
+      "description": "How universal healthcare could help families at every income level and improve business competitiveness\u2014and the trade-offs a credible proposal must address."
     },
     {
       "number": 7,
@@ -128,10 +177,10 @@
     },
     {
       "number": 4,
-      "title": "A Festering Wound: The History of Medicare for All and Congress’s Failure to Act",
+      "title": "A Festering Wound: The History of Medicare for All and Congress\u2019s Failure to Act",
       "url": "articles/4/",
       "thumbnail": "articles/4/thumbnail.png",
-      "description": "A century of national health insurance debates, landmark reforms, and stalled Medicare for All proposals—and the human cost of leaving America’s healthcare problems unresolved."
+      "description": "A century of national health insurance debates, landmark reforms, and stalled Medicare for All proposals\u2014and the human cost of leaving America\u2019s healthcare problems unresolved."
     },
     {
       "number": 3,
@@ -142,7 +191,7 @@
     },
     {
       "number": 2,
-      "title": "Can America Afford Medicare for All—or Can We Afford to Keep the System We Have?",
+      "title": "Can America Afford Medicare for All\u2014or Can We Afford to Keep the System We Have?",
       "url": "articles/2/",
       "thumbnail": "articles/2/thumbnail.png",
       "description": "An evidence-based look at U.S. healthcare spending, insurance costs, administrative waste, and the potential trade-offs of Medicare for All. Savings depend on the specific plan and assumptions."
