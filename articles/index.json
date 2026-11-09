@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "number": 16,
+      "title": "When Medical Bills Cost You Your Home",
+      "description": "How medical debt, lost income, and unaffordable healthcare can put families at risk of eviction, foreclosure, and homelessness.",
+      "url": "articles/16/",
+      "thumbnail": "articles/16/thumbnail.png"
+    },
+    {
+      "number": 15,
+      "title": "If America Is the Greatest Country, Let’s Prove It",
+      "description": "Let’s build a healthcare system worthy of America’s ideals—one that puts We the People first and leaves no one last.",
+      "url": "articles/15/",
+      "thumbnail": "articles/15/thumbnail.png"
+    },
+    {
       "number": 14,
       "title": "When Denying Care Becomes a Business Strategy",
       "description": "Congressional scrutiny of insurance claim denials, corporate incentives, and the consequences for patients.",

@@ -1,1 +1,1 @@
-Version 4.3: Added Article 14, with the hearing photograph and two editorial illustrations. All 14 articles appear on the homepage. Extract at repository root and replace matching files, then commit and push.
+Website v4.6: Article 16 added; all sixteen articles preserved. Extract into repository root, commit and push.
