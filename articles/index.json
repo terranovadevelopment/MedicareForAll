@@ -1,8 +1,106 @@
 {
   "articles": [
     {
+      "number": 43,
+      "title": "Education Is the Key",
+      "description": "Facts, access, efficiency, savings, and freedom",
+      "url": "articles/43/",
+      "thumbnail": "articles/43/thumbnail.png"
+    },
+    {
+      "number": 42,
+      "title": "Medicare for All and the Power of Economic Growth",
+      "description": "How healthcare reform could support jobs, incomes, and growth",
+      "url": "articles/42/",
+      "thumbnail": "articles/42/thumbnail.png"
+    },
+    {
+      "number": 41,
+      "title": "Healthcare Can Unite Us",
+      "description": "Finding common ground across political differences",
+      "url": "articles/41/",
+      "thumbnail": "articles/41/thumbnail.png"
+    },
+    {
+      "number": 40,
+      "title": "Every Veteran Deserves the Care They Earned",
+      "description": "Strengthening healthcare for veterans and their families",
+      "url": "articles/40/",
+      "thumbnail": "articles/40/thumbnail.png"
+    },
+    {
+      "number": 39,
+      "title": "No One Should Lose Their Home Because They Got Sick",
+      "description": "Preventing medical debt from becoming housing insecurity",
+      "url": "articles/39/",
+      "thumbnail": "articles/39/thumbnail.png"
+    },
+    {
+      "number": 38,
+      "title": "Recovery Is a Priority for Everyone",
+      "description": "Mental health, addiction treatment, and the opportunity to recover",
+      "url": "articles/38/",
+      "thumbnail": "articles/38/thumbnail.png"
+    },
+    {
+      "number": 37,
+      "title": "Aging With Dignity Is a Right, Not a Privilege",
+      "description": "Long-term care and the right to age with dignity",
+      "url": "articles/37/",
+      "thumbnail": "articles/37/thumbnail.png"
+    },
+    {
+      "number": 36,
+      "title": "Everyone Deserves to See Life Clearly",
+      "description": "Why vision care belongs in universal healthcare",
+      "url": "articles/36/",
+      "thumbnail": "articles/36/thumbnail.png"
+    },
+    {
+      "number": 35,
+      "title": "Everyone Deserves to Hear Life Clearly",
+      "description": "Hearing care should be accessible to everyone",
+      "url": "articles/35/",
+      "thumbnail": "articles/35/thumbnail.png"
+    },
+    {
+      "number": 34,
+      "title": "No One Should Have to Choose Between Medicine and Rent",
+      "description": "Making essential prescriptions affordable for everyone",
+      "url": "articles/34/",
+      "thumbnail": "articles/34/thumbnail.png"
+    },
+    {
+      "number": 33,
+      "title": "Specialist Care Should Be About Healing, Not Your Insurance Network",
+      "description": "Specialist care based on medical need, not ability to pay",
+      "url": "articles/33/",
+      "thumbnail": "articles/33/thumbnail.png"
+    },
+    {
+      "number": 32,
+      "title": "Your Smile Finally Counts",
+      "description": "Why dental care belongs in universal healthcare",
+      "url": "articles/32/",
+      "thumbnail": "articles/32/thumbnail.png"
+    },
+    {
+      "number": 31,
+      "title": "Choose Your Doctor, Not Your Insurance Network",
+      "description": "Freedom to choose a doctor without insurance-network barriers",
+      "url": "articles/31/",
+      "thumbnail": "articles/31/thumbnail.png"
+    },
+    {
+      "number": 30,
+      "title": "Every Hospital Visit Should Mean Care—Not Debt",
+      "description": "Comprehensive hospital care without medical debt",
+      "url": "articles/30/",
+      "thumbnail": "articles/30/thumbnail.png"
+    },
+    {
       "number": 29,
-      "title": "Insured but Still Unable to Afford Care: The Walmart Worker\u2019s Dilemma",
+      "title": "Insured but Still Unable to Afford Care: The Walmart Worker’s Dilemma",
       "description": "Why having health insurance does not always mean affordable access to care.",
       "url": "articles/29/",
       "thumbnail": "articles/29/thumbnail.png"
@@ -10,7 +108,7 @@
     {
       "number": 28,
       "title": "Call It What It Is: Universal Healthcare",
-      "description": "Why the name Medicare for All can be confused with today\u2019s Medicare.",
+      "description": "Why the name Medicare for All can be confused with today’s Medicare.",
       "url": "articles/28/",
       "thumbnail": "articles/28/thumbnail.png"
     },
@@ -30,7 +128,7 @@
     },
     {
       "number": 25,
-      "title": "The True Cost of American Healthcare: What the Bills Don\u2019t Show",
+      "title": "The True Cost of American Healthcare: What the Bills Don’t Show",
       "description": "Employer burdens, job lock, delayed care, and other indirect costs.",
       "url": "articles/25/",
       "thumbnail": "articles/25/thumbnail.png"
@@ -86,7 +184,7 @@
     },
     {
       "number": 17,
-      "title": "Medicare for All: What It Is\u2014and What It Isn\u2019t",
+      "title": "Medicare for All: What It Is—and What It Isn’t",
       "description": "A practical explanation of what Medicare for All proposes, what it does not mean, and how universal healthcare could work.",
       "url": "articles/17/",
       "thumbnail": "articles/17/thumbnail.png"
@@ -100,8 +198,8 @@
     },
     {
       "number": 15,
-      "title": "If America Is the Greatest Country, Let\u2019s Prove It",
-      "description": "Let\u2019s build a healthcare system worthy of America\u2019s ideals\u2014one that puts We the People first and leaves no one last.",
+      "title": "If America Is the Greatest Country, Let’s Prove It",
+      "description": "Let’s build a healthcare system worthy of America’s ideals—one that puts We the People first and leaves no one last.",
       "url": "articles/15/",
       "thumbnail": "articles/15/thumbnail.png"
     },
@@ -115,7 +213,7 @@
     {
       "number": 13,
       "title": "Do We Really Want a Healthcare System That Profits from Sickness?",
-      "description": "Who benefits from healthcare's financial incentives\u2014and how could Medicare for All better align payment with patient health?",
+      "description": "Who benefits from healthcare's financial incentives—and how could Medicare for All better align payment with patient health?",
       "url": "articles/13/",
       "thumbnail": "articles/13/thumbnail.png"
     },
@@ -129,21 +227,21 @@
     {
       "number": 11,
       "title": "Why Business Leaders Should Be Enthusiastic About Medicare for All",
-      "description": "How Medicare for All could help employers through more predictable costs, simpler administration, worker mobility, and global competitiveness\u2014while weighing financing trade-offs.",
+      "description": "How Medicare for All could help employers through more predictable costs, simpler administration, worker mobility, and global competitiveness—while weighing financing trade-offs.",
       "url": "articles/11/",
       "thumbnail": "articles/11/thumbnail.png"
     },
     {
       "number": 10,
-      "title": "We Don\u2019t Need to Rob the Rich to Help the Poor",
-      "description": "How fixing healthcare\u2019s costly systems could benefit businesses and working families without turning economic classes against one another.",
+      "title": "We Don’t Need to Rob the Rich to Help the Poor",
+      "description": "How fixing healthcare’s costly systems could benefit businesses and working families without turning economic classes against one another.",
       "url": "articles/10/",
       "thumbnail": "articles/10/thumbnail.png"
     },
     {
       "number": 9,
-      "title": "The Healthcare System Isn\u2019t Broken \u2014 It\u2019s Doing What It Was Built to Do",
-      "description": "A look at how healthcare financing incentives, insurance complexity, and employer-based coverage can conflict with patient needs\u2014and what reform could change.",
+      "title": "The Healthcare System Isn’t Broken — It’s Doing What It Was Built to Do",
+      "description": "A look at how healthcare financing incentives, insurance complexity, and employer-based coverage can conflict with patient needs—and what reform could change.",
       "url": "articles/9/",
       "thumbnail": "articles/9/thumbnail.png"
     },
@@ -152,7 +250,7 @@
       "title": "Medicare for All: A Bipartisan Opportunity",
       "url": "articles/8/",
       "thumbnail": "articles/8/thumbnail.png",
-      "description": "How universal healthcare could help families at every income level and improve business competitiveness\u2014and the trade-offs a credible proposal must address."
+      "description": "How universal healthcare could help families at every income level and improve business competitiveness—and the trade-offs a credible proposal must address."
     },
     {
       "number": 7,
@@ -177,10 +275,10 @@
     },
     {
       "number": 4,
-      "title": "A Festering Wound: The History of Medicare for All and Congress\u2019s Failure to Act",
+      "title": "A Festering Wound: The History of Medicare for All and Congress’s Failure to Act",
       "url": "articles/4/",
       "thumbnail": "articles/4/thumbnail.png",
-      "description": "A century of national health insurance debates, landmark reforms, and stalled Medicare for All proposals\u2014and the human cost of leaving America\u2019s healthcare problems unresolved."
+      "description": "A century of national health insurance debates, landmark reforms, and stalled Medicare for All proposals—and the human cost of leaving America’s healthcare problems unresolved."
     },
     {
       "number": 3,
@@ -191,7 +289,7 @@
     },
     {
       "number": 2,
-      "title": "Can America Afford Medicare for All\u2014or Can We Afford to Keep the System We Have?",
+      "title": "Can America Afford Medicare for All—or Can We Afford to Keep the System We Have?",
       "url": "articles/2/",
       "thumbnail": "articles/2/thumbnail.png",
       "description": "An evidence-based look at U.S. healthcare spending, insurance costs, administrative waste, and the potential trade-offs of Medicare for All. Savings depend on the specific plan and assumptions."
