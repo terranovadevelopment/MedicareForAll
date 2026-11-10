@@ -1,1 +1,52 @@
-Extract this ZIP. Upload index.html to the ROOT of the MedicareForAll GitHub repository (replace the old one). Upload articles/44 and articles/45 folders preserving their paths. Commit. Do not upload the ZIP itself. This update preserves articles 1–43 already in the repository.
+FACEBOOK PREVIEW UPDATE — ALL 45 ARTICLES
+
+Extract ZIP and upload its contents to the ROOT of the TerraNovaDevelopment/MedicareForAll GitHub repository, keeping folders. Replace files with the same names and commit. Do not upload the ZIP as a file. This package includes 45 corrected article HTML files, the homepage, and full assets for articles 44 and 45. Assets for articles 1–43 are already present in the original website.
+
+Once GitHub Pages publishes, use https://developers.facebook.com/tools/debug/ and Scrape Again for pages with stale Facebook previews.
+
+PREVIEW IMAGE AUDIT
+01 | Medicare for All: How Would Hospital Billing Actually Work? | Universal Healthcare Social | images/illustration.png
+02 | Can America Afford Medicare for All—or Can We Afford to Keep the System We Have? | Universal Healthcare Social | images/illustration.png
+03 | Obamacare vs. Medicare for All: The Difference Between Having Insurance and Affording Healthcare | Universal Healthcare Social | images/illustration.png
+04 | A Festering Wound: The History of Medicare for All and Congress’s Failure to Act | Universal Healthcare Social | images/illustration.png
+05 | Socialism Is Not a Weapon: Why America Must Debate Policies, Not Labels | Universal Healthcare Social | images/illustration.png
+06 | Healthcare Needs Solutions, Not Stonewalling | Universal Healthcare Social | images/illustration.png
+07 | Better Healthcare Could Cost Less Than We Spend Today | Universal Healthcare Social | images/illustration.png
+08 | Medicare for All: A Bipartisan Opportunity | Universal Healthcare Social | images/illustration.png
+09 | The Healthcare System Isn’t Broken — It’s Doing What It Was Built to Do | Universal Healthcare Social | images/illustration.png
+10 | We Don’t Need to Rob the Rich to Help the Poor | Universal Healthcare Social | images/illustration.jpg
+11 | Why Business Leaders Should Be Enthusiastic About Medicare for All | Universal Healthcare Social | images/illustration.png
+12 | U.S. vs. Canada: A Healthcare Reality Check | Universal Healthcare Social | images/illustration.png
+13 | Do We Really Want a Healthcare System That Profits from Sickness? | Universal Healthcare Social | images/illustration.png
+14 | When Denying Care Becomes a Business Strategy | UHS | images/congressional-hearing.png
+15 | If America Is the Greatest Country, Let’s Prove It | Medicare for All | images/greatest-country.png
+16 | When Medical Bills Cost You Your Home | Medicare for All | images/homeless-mother.jpg
+17 | Medicare for All: What It Is—and What It Isn’t | images/what-it-is-isnt.png
+18 | The Moral Imperative of Medicare for All | Medicare for All | images/illustration-1.png
+19 | Judge Medicare for All on Its Merits, Not Its Political Label | Medicare for All | images/illustration-1.png
+20 | The Patient, Not the Bill | Medicare for All | images/illustration-1.jpeg
+21 | The Status Quo Is Not a Healthcare Strategy | Medicare for All | images/illustration-1.png
+22 | Why Do People Oppose Medicare for All? | Medicare for All | images/illustration-1.png
+23 | Is America Ready for Medicare for All? | Medicare for All | thumbnail.png
+24 | The Medicare Part B Premium: A Heavy Burden on Fixed Incomes | Medicare for All | thumbnail.png
+25 | The True Cost of American Healthcare: What the Bills Don’t Show | Medicare for All | thumbnail.png
+26 | The Hidden Economic Dividend of Medicare for All | Medicare for All | thumbnail.png
+27 | Medicare for All, American Manufacturing, and the Cost of Competing | Medicare for All | thumbnail.png
+28 | Call It What It Is: Universal Healthcare | Medicare for All | thumbnail.png
+29 | Insured but Still Unable to Afford Care: The Walmart Worker’s Dilemma | Medicare for All | thumbnail.png
+30 | Article 30: Every Hospital Visit Should Mean Care—Not Debt | Medicare for All | thumbnail.png
+31 | Article 31: Choose Your Doctor, Not Your Insurance Network | Medicare for All | thumbnail.png
+32 | Article 32: Your Smile Finally Counts | Medicare for All | thumbnail.png
+33 | Article 33: Specialist Care Should Be About Healing, Not Your Insurance Network | Medicare for All | thumbnail.png
+34 | Article 34: No One Should Have to Choose Between Medicine and Rent | Medicare for All | thumbnail.png
+35 | Article 35: Everyone Deserves to Hear Life Clearly | Medicare for All | thumbnail.png
+36 | Article 36: Everyone Deserves to See Life Clearly | Medicare for All | thumbnail.png
+37 | Article 37: Aging With Dignity Is a Right, Not a Privilege | Medicare for All | thumbnail.png
+38 | Article 38: Recovery Is a Priority for Everyone | Medicare for All | thumbnail.png
+39 | Article 39: No One Should Lose Their Home Because They Got Sick | Medicare for All | thumbnail.png
+40 | Article 40: Every Veteran Deserves the Care They Earned | Medicare for All | thumbnail.png
+41 | Article 41: Healthcare Can Unite Us | Medicare for All | thumbnail.png
+42 | Article 42: Medicare for All and the Power of Economic Growth | Medicare for All | thumbnail.png
+43 | Article 43: Education Is the Key | Medicare for All | thumbnail.png
+44 | Healthcare Is a Right, Not a Privilege | Medicare for All | thumbnail.jpg
+45 | Medicare for All: What It Could Mean for Texas | Medicare for All | thumbnail.jpg
