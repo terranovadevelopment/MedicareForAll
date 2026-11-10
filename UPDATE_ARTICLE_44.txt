@@ -1,0 +1,5 @@
+New article 44: Healthcare Is a Right, Not a Privilege.
+Includes article page, thumbnail, illustration, and illustrated Word document.
+Homepage article card and social metadata count updated to 44.
+Upload the contents of this folder to the MedicareForAll repository root (do not upload the enclosing folder).
+GitHub Pages will publish after the commit.
