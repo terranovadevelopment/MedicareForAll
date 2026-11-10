@@ -1,0 +1,1 @@
+Extract this ZIP. Upload index.html to the ROOT of the MedicareForAll GitHub repository (replace the old one). Upload articles/44 and articles/45 folders preserving their paths. Commit. Do not upload the ZIP itself. This update preserves articles 1–43 already in the repository.
